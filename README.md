@@ -1,4 +1,4 @@
-# SESNet for remote sensing image change detection
+# F3SNet for remote sensing image change detection
 
 It is the implementation of the paper: "A Full-scale Feature Fusion Siamese Network For Remote Sensing Change Detection". Here, we provide the pytorch implementation of this paper.
 
